@@ -64,7 +64,7 @@
         "react/no-unescaped-entities": 0,
         "jsx-a11y/accessible-emoji": 0,
         "react/require-default-props": 0,
-        "valid-jsdoc": "warn",
+        "valid-jsdoc": "off",
         "react/jsx-filename-extension": [
             1,
             {
